@@ -11,7 +11,7 @@
             {
                 return NotFound();
             }
-
+            
             var model = new DiagnosticsViewModel(await HttpContext.AuthenticateAsync());
             return View(model);
         }
