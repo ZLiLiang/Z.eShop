@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z.eShop.AppHost", "Z.eShop.AppHost\Z.eShop.AppHost.csproj", "{0C3937F3-64D1-4FAC-B5F6-CE92F282F3CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Z.eShop.ServiceDefaults", "Z.eShop.ServiceDefaults\Z.eShop.ServiceDefaults.csproj", "{6651734E-F801-44EA-8487-28D74C508085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3937F3-64D1-4FAC-B5F6-CE92F282F3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3937F3-64D1-4FAC-B5F6-CE92F282F3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3937F3-64D1-4FAC-B5F6-CE92F282F3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3937F3-64D1-4FAC-B5F6-CE92F282F3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6651734E-F801-44EA-8487-28D74C508085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6651734E-F801-44EA-8487-28D74C508085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6651734E-F801-44EA-8487-28D74C508085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6651734E-F801-44EA-8487-28D74C508085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B31EE20-2360-4D5E-B5BD-5F1DF974EE9E}
+	EndGlobalSection
+EndGlobal
